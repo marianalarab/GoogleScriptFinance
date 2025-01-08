@@ -22,6 +22,7 @@ Renomeie o projeto e substitua a função para CotaçãoUSD então cole o códig
 Esta função está chamando a cotação direto no banco central e retornando em tipo Float.
 
 Para usar a função no seu google sheet:
+
 ![image](https://github.com/user-attachments/assets/fe0d81b6-0e05-45d1-9f3e-004e84562745)
 
 
@@ -32,4 +33,5 @@ Adiocione mais um arquivo
 ![image](https://github.com/user-attachments/assets/5fadac0f-51c9-4f27-8560-e497a93bd5d6)
 
 
+![image](https://github.com/user-attachments/assets/fc4d690e-dacf-49a2-805e-8c4edd793e1e)
 
