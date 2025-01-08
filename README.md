@@ -32,6 +32,9 @@ Adiocione mais um arquivo
 
 ![image](https://github.com/user-attachments/assets/5fadac0f-51c9-4f27-8560-e497a93bd5d6)
 
+Cole esse código: [PriceAlertMoeda.js](https://github.com/marianalarab/GoogleScriptFinance/blob/main/src/PriceAlertMoeda.js)
+
+Preencha a planilha da seguinte forma:
 
 ![image](https://github.com/user-attachments/assets/fc4d690e-dacf-49a2-805e-8c4edd793e1e)
 
