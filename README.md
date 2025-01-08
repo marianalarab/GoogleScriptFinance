@@ -38,3 +38,13 @@ Preencha a planilha da seguinte forma:
 
 ![image](https://github.com/user-attachments/assets/fc4d690e-dacf-49a2-805e-8c4edd793e1e)
 
+Adicionar acionadores que irá executar o código em background
+
+![image](https://github.com/user-attachments/assets/a9d15642-20ec-4873-a9d2-f0ebb2bba849)
+
+
+Exemplo de e-mail gerado
+
+![image](https://github.com/user-attachments/assets/abc4396e-531d-4c7a-8a78-72afd79727d4)
+
+O mesmo pode ser feito para PriceAlertStock
