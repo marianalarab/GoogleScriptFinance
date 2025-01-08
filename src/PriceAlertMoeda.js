@@ -19,8 +19,6 @@ function PriceAlertMoeda() {
 
     //Loads the current row
     let row = data[i];
-
-    console.log(row);
     let targetPrice = row[2];
     let currentPrice = row[1];
     let alertOn = row[3];
